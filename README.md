@@ -12,6 +12,9 @@ A collection of powershell scripts and icons for use with the Mountain DisplayPa
 - Create `.ps1` script
 - (Optional) Add `.png` you'd like the exe to have
 
+> [!NOTE]  
+> Most of the time if you are looking for documentation you should be looking at [P2EXE's](https://github.com/MScholtes/PS2EXE) documentation. This script is litterally just for invoking that on all ps1 scripts in the directory.
+
 # Using
 - Once build has been run open BaseCamp
 - Assign bind exe to button as shown
