@@ -20,6 +20,8 @@ A collection of powershell scripts and icons for use with the Mountain DisplayPa
 - Assign bind exe to button as shown
 - (Optional) if the generated `ico` file attached to the `exe` looks off, then change the icon to the `png` in the same folder
 
+https://github.com/user-attachments/assets/bdf0b3b1-3065-4def-94b5-efd31c6a85fa
+
 # Attributes
 - <a href="https://www.flaticon.com/free-icons/example" title="example icons">Example icon created by Freepik - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/document-type" title="document-type icons">Document-type icon created by Freepik - Flaticon</a>
